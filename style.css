@@ -16,12 +16,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 a{
     all: unset;
 }
+
 .phone {
     overflow: hidden;
     width: 315px;
@@ -31,8 +31,7 @@ a{
     border-radius: 1rem;
     background-image: url(bi.jpg);
     background-size:cover;
-    border: 2px solid #dbdbdb ;
-    
+    border: 2px solid #dbdbdb ; 
 }
 
 .menu {
@@ -52,7 +51,6 @@ a{
     flex-direction: column;
     gap: 3px;
     text-align: center;
-
   }
 
   .menuitem:hover{
@@ -61,6 +59,5 @@ a{
   }
   .menuname{
     font-family: 'Montserrat', sans-serif;
-    font-size: 10px;
-    
+    font-size: 10px;  
   }
